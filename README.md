@@ -1,4 +1,3 @@
-# Personal
-C++ Exercises and Projects - For Personal Use Only
+C++ Tasks and Projects 
 
-Challenge.cpp - A program that allows the user to create, modify and perform basic mathematical operatorions with compound data strucutures. 
+A compilation of tasks and projects with C++ programmed for personal as well as academic purposes. 
